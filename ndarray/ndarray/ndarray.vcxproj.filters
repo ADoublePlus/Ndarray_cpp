@@ -30,5 +30,8 @@
     <ClInclude Include="iterator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ndarray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

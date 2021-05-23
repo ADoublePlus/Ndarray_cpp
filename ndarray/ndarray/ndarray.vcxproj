@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClInclude Include="exceptions.h" />
     <ClInclude Include="funcs.h" />
+    <ClInclude Include="iterator.h" />
     <ClInclude Include="slice.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
